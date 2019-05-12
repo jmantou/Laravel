@@ -1,5 +1,5 @@
 # Laravel
-Laravel Apps &amp; Projects
+
 LARAVEL CAR LOAN APP v1.0
 
 The Car Loan App is a simple Laravel framework app for inserting the necessary data for a car loan, saving this data on a database and performing the necessary math calculations for obtaining the PMT - Monthly Payment for the desired car.
